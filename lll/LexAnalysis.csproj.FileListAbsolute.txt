@@ -1,0 +1,10 @@
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\bin\Debug\LexAnalysis.exe
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\bin\Debug\LexAnalysis.pdb
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.Form1.resources
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.Properties.Resources.resources
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.csproj.GenerateResource.Cache
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.exe
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.pdb
+C:\Users\ChesSter\Desktop\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.csprojResolveAssemblyReference.cache
+D:\Университетские уроки\3 курс\Интерпретаторы\Программа по курсовой\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.exe
+D:\Университетские уроки\3 курс\Интерпретаторы\Программа по курсовой\LexAnalysis\LexAnalysis\obj\x86\Debug\LexAnalysis.pdb

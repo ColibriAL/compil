@@ -1,0 +1,9 @@
+var
+a,b:integer;
+begin
+b = 2;
+for a = 2 to a+1*2 do
+b = -b + 1
+end_for;
+write(b);
+end

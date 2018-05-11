@@ -1,0 +1,6 @@
+var
+a,b:integer;
+begin
+a = 1 + b;
+write(a,b);
+end

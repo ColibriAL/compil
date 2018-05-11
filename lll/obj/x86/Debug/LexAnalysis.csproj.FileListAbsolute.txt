@@ -1,0 +1,8 @@
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.Form1.resources
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.csproj.GenerateResource.Cache
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.Properties.Resources.resources
+C:\Users\ColibriUser\Desktop\lll\bin\Debug\LexAnalysis.exe
+C:\Users\ColibriUser\Desktop\lll\bin\Debug\LexAnalysis.pdb
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.exe
+C:\Users\ColibriUser\Desktop\lll\obj\x86\Debug\LexAnalysis.pdb

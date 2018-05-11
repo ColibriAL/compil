@@ -1,0 +1,7 @@
+var
+a,b,a:integer;
+begin
+b = 2;
+for a = 2 to a+1	
+b = b + 2*2;
+end
